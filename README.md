@@ -82,3 +82,5 @@ Bidirectional LSTMs are used because they process data in both forward and backw
 below is an overview of the Bidirectional LSTM model architecture
 
 ![image](https://github.com/user-attachments/assets/95cb3320-ab85-4672-acdd-3ac5ae795395)
+
+You can access the static folder for the same png file.
