@@ -91,3 +91,7 @@ As shown above is the performance of the model
 
 
 You can access the static folder for the same png file.
+
+The details of the dataset can be viewed here: https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text
+classification  
+
