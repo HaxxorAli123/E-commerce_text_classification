@@ -83,4 +83,11 @@ below is an overview of the Bidirectional LSTM model architecture
 
 ![image](https://github.com/user-attachments/assets/95cb3320-ab85-4672-acdd-3ac5ae795395)
 
+![Screenshot_tensorboard plot](https://github.com/user-attachments/assets/7ac7cf45-97d9-4ac0-a284-7615d1b0ac72)
+
+![Screenshot Performance of model](https://github.com/user-attachments/assets/25d5d036-a32a-4a84-826d-777692a88562)
+
+As shown above is the performance of the model
+
+
 You can access the static folder for the same png file.
