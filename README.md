@@ -49,35 +49,35 @@ Bidirectional LSTMs are used because they process data in both forward and backw
 
 1. Data Preprocessing:
 
-  * Cleaning and tokenizing text data.
+   * Cleaning and tokenizing text data.
 
-  * Vectorizing text using techniques like word embeddings.
+   * Vectorizing text using techniques like word embeddings.
 
-  * Splitting data into training, validation, and test sets.
+   * Splitting data into training, validation, and test sets.
 
 2. Model Development:
 
-  * Building a Bidirectional LSTM model using Keras.
+   * Building a Bidirectional LSTM model using Keras.
 
-  * Compiling the model with appropriate loss functions and optimizers.
+   * Compiling the model with appropriate loss functions and optimizers.
 
 3. Training:
 
-  * Training the model on labeled e-commerce item descriptions.
-
-  * Validating the model using a separate validation set.
+   * Training the model on labeled e-commerce item descriptions.
+ 
+   * Validating the model using a separate validation set.
 
 4. Evaluation:
 
-  * Evaluating the model's performance using metrics like accuracy, precision, recall, and F1-score.
+   * Evaluating the model's performance using metrics like accuracy, precision, recall, and F1-score.
 
-  * Generating a confusion matrix for detailed analysis.
+   * Generating a confusion matrix for detailed analysis.
 
 5. Deployment (Optional):
 
-  * Saving the trained model.
+   * Saving the trained model.
 
-  * Deploying it as a web service or integrating it into an e-commerce platform.
+   * Deploying it as a web service or integrating it into an e-commerce platform.
 
 below is an overview of the Bidirectional LSTM model architecture
 
